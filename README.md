@@ -650,14 +650,14 @@ out as well while working on your project.
 			<h2 id="h21" align="center" class="h22Out">
 				<span>Know more</span><br>
 				<br>To know more about GSoC with CCExtractor Development click here:<br>
-				<a class="btn" href="https://www.ccextractor.org/public:gsoc:ideas_page_for_summer_of_code_2018">Know 
+				<a class="btn" href="">Know 
 
 more</a>
 			</h2>
 			<h2 id="h22" align="center" class="h23Out">
 				<span>GCI</span><br>
 				Also check out our participation in Google Code In<br>
-				<a class="btn" href="CCEXTRACTOR2.html">CCExtractor GCI</a>
+				<a class="btn" href="https://www.ccextractor.org/public:codein:google_code-in_2018">CCExtractor GCI</a>
 			</h2>
 		</div>
 		
