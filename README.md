@@ -1,5 +1,3 @@
-# sriharsh01
-CCExtractor-Web
 <html>
 	<head>
 		<title>CCExtractor Dev.</title>
@@ -617,7 +615,7 @@ research purposes, as well by regular users that want to extract captions from v
 			<h1 id="h12" class="h1Out">About us</h1>
 		</div>
 		<div id="oversec">
-			<h2 align="right" id="h23" class="h2Out">
+			<h2 align="center" id="h23" class="h2Out">
 				CCExtractor Development is an informal (meaning we're not incorporated anywhere) organization that exists 
 
 to coordinate the development efforts of the volunteers that contribute to the software and to manage our participation in specific events such as 
