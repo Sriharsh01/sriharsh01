@@ -135,13 +135,13 @@ z-index: 0;
 				color: #f7a552;
 				height: 30%;
 z-index: 0;
-			
+			}
 			#sec h2 {
 				position: absolute;
 				font-size: 2vw;
 				font-family: 'Montserrat', sans-serif;
-			{	animation: tenter 2s;
-			
+				animation: tenter 2s;
+			}
 			@keyframes tenter {
 				0% {
 					transform: translate(0,180%);
